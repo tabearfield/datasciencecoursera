@@ -1,0 +1,5 @@
+# this is the gitignore file
+# none of these files will be tracked by git
+
+.Rapp.history
+.Rhistory
